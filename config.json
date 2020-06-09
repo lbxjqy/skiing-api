@@ -1,0 +1,13 @@
+{
+    "DataBase": {
+        "Host": "localhost",
+        "Port": "3306",
+        "DBName": "skiing",
+        "UserName": "root",
+        "PWD": "linboxuan",
+        "DBType": "mysql",
+        "PoolMAX": 10000,
+        "PoolMIN": 10,
+        "timezone": "+08:00"
+    }
+}
